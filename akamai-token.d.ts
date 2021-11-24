@@ -1,0 +1,1 @@
+declare module 'akamai-auth-token/lib/Akamai';
